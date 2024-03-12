@@ -49,7 +49,7 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
-.text-success { color: #59ab6e !important;}
+.text-success { color: #6db4fe !important;} /* Cambio a azulado */
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
@@ -67,8 +67,8 @@ body, ul, li, p, a, label, input, div {
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
 #templatemo_nav_top * { font-size: .9em !important;}
-#templatemo_main_nav a { color: #212934;}
-#templatemo_main_nav a:hover { color: #69bb7e;}
+#templatemo_main_nav a { color: #6db4fe;}
+#templatemo_main_nav a:hover { color: #6db4fe;} /* Mantenlo verde para el hover si así lo deseas */
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 /* Hero Carousel */
 #template-mo-zay-hero-carousel { background: #efefef !important;}
