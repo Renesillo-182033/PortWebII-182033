@@ -25,9 +25,6 @@ Table of contents
 16. Extra large devices (large desktops, 1200px and up)
 --------------------------------------------- */
 
-
-
-
 /* Typography */
 body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
@@ -57,10 +54,10 @@ body, ul, li, p, a, label, input, div {
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #1d242d !important;}
-.bg-success { background-color: #59ab6e !important;}
+.bg-success { background-color: #6db4fe !important;} /* Cambio a azulado */
 .btn-success {
-  background-color: #59ab6e !important;
-  border-color: #56ae6c !important;
+  background-color: #6db4fe !important; /* Cambio a azulado */
+  border-color: #5f9cff !important; /* Cambio a azulado */
 }
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
@@ -73,7 +70,6 @@ body, ul, li, p, a, label, input, div {
 #templatemo_main_nav a { color: #212934;}
 #templatemo_main_nav a:hover { color: #69bb7e;}
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
-
 /* Hero Carousel */
 #template-mo-zay-hero-carousel { background: #efefef !important;}
 /* Accordion */
@@ -117,11 +113,11 @@ body, ul, li, p, a, label, input, div {
 /* Carousel Hero */
 #template-mo-zay-hero-carousel .carousel-indicators li {
   margin-top: -50px;
-  background-color: #59ab6e;
+  background-color: #6db4fe; /* Cambio a azulado */
 }
 #template-mo-zay-hero-carousel .carousel-control-next i,
 #template-mo-zay-hero-carousel .carousel-control-prev i {
-  color: #59ab6e !important;
+  color: #6db4fe !important; /* Cambio a azulado */
   font-size: 2.8em !important;
 }
 /* Carousel Brand */
@@ -132,7 +128,7 @@ body, ul, li, p, a, label, input, div {
 /* Services */
 .services-icon-wap {transition: .3s;}
 .services-icon-wap:hover, .services-icon-wap:hover i {color: #fff;}
-.services-icon-wap:hover {background: #69bb7e;}
+.services-icon-wap:hover {background: #6db4fe;} /* Cambio a azulado */
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
 .form-control { border: 1px solid #e8e8e8;}
